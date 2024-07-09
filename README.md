@@ -3,7 +3,7 @@
       Hi there, I'm @zynpbkn 👋
   </h1>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/Zeynep-Bakan-34238390/">
+    <a href="https://www.linkedin.com/in/Zeynep Bakan">
       <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" alt="LinkedIn" width="40px" />
     </a>
    
