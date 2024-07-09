@@ -3,7 +3,7 @@
       Hi there, I'm @zynpbkn 👋
   </h1>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/zeynep-bakan-34238390/">
+    <a href="https://www.linkedin.com/in/Zeynep-Bakan-34238390/">
       <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" alt="LinkedIn" width="40px" />
     </a>
    
@@ -11,13 +11,14 @@
 </div>
 
 ---
-<!--
+
 ### 🥳 🌍 About Me 🗺 📚 💻
-I am a Data Scientist, Geoinformatics Engineer and Fullstack Software Developer.
-- 🌱 I'm currently working on becoming a senior Data Scientist and a Doctor in program Remote Sensing and Geographic Information Systems.
+I am a Math Teacher and Machine learning ve veri data science enthusiast.
+- 🌱 I finished my master's degree on machine learning and I am looking for a PhD program on deep learning.
 - 🧠 I'am crazy about all data things (collecting, pre-processing, analyzing, visializing, reporting, extract info from them etc.).
 - 👩‍💻 Pronouns: she/her/hers
-- 💬 Ask me about Angular, C#, Python, QGIS, SQL, image processing, GIS Tools, spatial statistics tools, AI, ML and DL
+- 💬 Ask me about  Python, SQL, image processing, GIS Tools, spatial statistics tools, AI, ML and DL
+- <!--
 - ✍️ I try to write regularly on [Medium](https://medium.com/@nimetkaragz).
 
 ---
