@@ -3,7 +3,7 @@
       Hi there, I'm @zynpbkn 👋
   </h1>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/zeynep-bakan-ba1996308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+    <a href="https://www.linkedin.com/in/zeynep-bakan-ba1996308/">
       <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" alt="LinkedIn" width="40px" />
     </a>
      <a href="https://www.kaggle.com/zeynepbakan">
