@@ -7,7 +7,7 @@
       <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" alt="LinkedIn" width="40px" />
     </a>
      <a href="https://www.kaggle.com/zeynepbakan">
-      <img src="https://edent.github.io/KaggleIcons/images/svg/kaggle.svg" alt="Kaggle" width="40px"/>
+      <img src="https://edent.github.io/SuperTinyIcons/images/svg/kaggle.svg" alt="Kaggle" width="40px"/>
     </a>
    
   </div>
