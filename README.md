@@ -20,7 +20,7 @@ I am a math teacher and machine learning, data science and MLOps enthusiast.
 - 🌱 I finished my master's degree on machine learning and I am looking for a PhD program on deep learning.
 - 🧠 I'am crazy about all data things (collecting, pre-processing, analyzing, visializing, reporting, extract info from them etc.).
 - 👩‍💻 Pronouns: she/her/hers
-- 💬 Ask me about  Python, SQL, image processing, GIS Tools, spatial statistics tools, AI, ML and DL 
+- 💬 Ask me about  Python, ML, ML Algorithms and MLOps. 
  <!--
 - ✍️ I try to write regularly on [Medium](https://medium.com/@nimetkaragz).
 
